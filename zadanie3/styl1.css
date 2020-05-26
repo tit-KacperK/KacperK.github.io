@@ -1,0 +1,16 @@
+body {
+ background-image: url();
+ background-color: #666666;
+}
+
+.img {
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.active {
+    display: initial;
+}
